@@ -10,7 +10,8 @@ Ett **CS2 `.cfg`-script** för att ladda en **granatövningsserver** snabbt och 
 ## 🚀 Installation  
 Lägg `pracc.cfg` i **CS2/cfg**-mappen och kör:  
 ```bash
-exec pracc
+skriv  "exec pracc" i cs2 consolen för att ladda script
+
 
 
 
